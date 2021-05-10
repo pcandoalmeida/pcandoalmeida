@@ -1,4 +1,6 @@
-### Hi there 👋🏽
+### Hi there, I'm Patrick 👋🏽
+
+I'm a Data Engineer/Python Software Engineer with a background in data science and machine learning. My interests include distributed systems, functional programming and programming languages. 
 
 <!--
 **pcandoalmeida/pcandoalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
