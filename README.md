@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrick 👋🏽
 
-I'm a software developer with a background in data engineering and data science. My interests include distributed systems, functional programming and programming languages
+I'm a software engineer with a background in data engineering and data science. My interests include distributed systems, functional programming and programming languages
 
 <!--
 **pcandoalmeida/pcandoalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
